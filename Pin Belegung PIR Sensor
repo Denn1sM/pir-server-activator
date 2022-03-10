@@ -1,0 +1,8 @@
+Rot: 5V
+Gelb: OUT
+Schwarz: GND
+
+Am PIR-Sensor:
+Links: 5V
+Mitte: Out (3.3V)
+Rechts: GND
